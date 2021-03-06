@@ -1,14 +1,14 @@
 {
   "name": "goswap-sdk",
   "license": "MIT",
-  "version": "3.0.19",
+  "version": "3.0.20",
   "description": "🛠 An SDK for building applications on top of GoSwap.",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
   "files": [
     "dist"
   ],
-  "repository": "https://github.com/CuiMianTeam/goswap-sdk",
+  "repository": "https://github.com/go-protocol/goswap-sdk",
   "keywords": [
     "uniswap",
     "sushiswap",
