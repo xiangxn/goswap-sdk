@@ -12,7 +12,8 @@ const CurrencyName = {
   [ChainId.BIANMAIN]: 'BNB',
   [ChainId.BIANTEST]: 'BNB',
   [ChainId.HECOMAIN]: 'HT',
-  [ChainId.HECOTEST]: 'HT'
+  [ChainId.HECOTEST]: 'HT',
+  [ChainId.OKTEST]: 'OKT'
 }
 /**
  * A currency is any fungible financial instrument on Ethereum, including Ether and all ERC20 tokens.
